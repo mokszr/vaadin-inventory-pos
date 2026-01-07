@@ -1,0 +1,12 @@
+services:
+  db:
+    container_name: c_postgre_vaadin_inventory_pos
+    image: 'postgres:17'
+    environment:
+      - 'POSTGRES_DB=vp'
+      - 'POSTGRES_PASSWORD=secret'
+      - 'POSTGRES_USER=myuser'
+    ports:
+      - '5432:5432'
+    volumes:
+      - postgre_mystock_data:/var/lib/postgresql/data
