@@ -10,3 +10,6 @@ services:
       - '5432:5432'
     volumes:
       - postgre_mystock_data:/var/lib/postgresql/data
+
+volumes:
+  postgre_mystock_data:
