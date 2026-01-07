@@ -94,6 +94,9 @@ pos.checkout.success=Payment completed: {0}
 pos.checkout.success=Ödeme alındı: {0}
 ```
 
+## Default Username Password
+Default username and password is **root / root** when you first run the application.
+
 ---
 
 ## Open-source & Independent Developer Project
