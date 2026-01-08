@@ -16,6 +16,12 @@ This project focuses on **clarity, correctness, and realistic domain modeling**,
 
 ---
 
+## Demo of myStock and code walkthrough on YouTube 
+
+[![Demo of myStock](https://img.youtube.com/vi/erofh0toA7Y/0.jpg)](https://www.youtube.com/watch?v=erofh0toA7Y)
+
+---
+
 ## ✨ Features
 
 ### Inventory & Products
